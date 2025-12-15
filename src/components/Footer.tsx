@@ -50,7 +50,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-2">
                 <Icon name="MapPin" size={16} className="text-primary" />
-                г. Москва, ул. Примерная, 123
+                г. Воронеж, ул. Новосибирская, д. 13а, оф. 13
               </li>
             </ul>
           </div>

@@ -71,7 +71,7 @@ const Contacts = () => {
                   </div>
                   <div>
                     <h3 className="font-bold mb-2">Адрес</h3>
-                    <p className="text-muted-foreground">г. Москва, ул. Примерная, д. 123</p>
+                    <p className="text-muted-foreground">г. Воронеж, ул. Новосибирская, д. 13а, оф. 13</p>
                     <p className="text-sm text-muted-foreground mt-1">Пн-Пт: 9:00-19:00, Сб: 10:00-17:00</p>
                   </div>
                 </div>
