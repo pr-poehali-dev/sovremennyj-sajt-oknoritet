@@ -40,9 +40,8 @@ const Contacts = () => {
                   </div>
                   <div>
                     <h3 className="font-bold mb-2">Телефон</h3>
-                    <p className="text-muted-foreground">+7 (495) 123-45-67</p>
-                    <p className="text-muted-foreground">+7 (800) 555-35-35</p>
-                    <p className="text-sm text-muted-foreground mt-1">Ежедневно с 9:00 до 21:00</p>
+                    <p className="text-muted-foreground">+7 (473) 280-11-55</p>
+                    <p className="text-sm text-muted-foreground mt-1">Понедельник-пятница с 8:00 до 17:00</p>
                   </div>
                 </div>
               </CardContent>
@@ -72,7 +71,7 @@ const Contacts = () => {
                   <div>
                     <h3 className="font-bold mb-2">Адрес</h3>
                     <p className="text-muted-foreground">г. Воронеж, ул. Новосибирская, д. 13а, оф. 13</p>
-                    <p className="text-sm text-muted-foreground mt-1">Пн-Пт: 9:00-19:00, Сб: 10:00-17:00</p>
+                    <p className="text-sm text-muted-foreground mt-1">Понедельник-пятница: 8:00-17:00</p>
                   </div>
                 </div>
               </CardContent>
